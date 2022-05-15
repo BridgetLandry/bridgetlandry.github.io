@@ -9,7 +9,7 @@ background:         'assets/img/lainbg.jpg'
 icon:               'assets/img/htb.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://bridgetlandry.github.io/webresume
+url:                https://bridgetlandry.github.io/
 
 # Jekyll
 permalink:          /:title/
