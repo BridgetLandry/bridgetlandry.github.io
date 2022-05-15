@@ -6,6 +6,7 @@ reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/headshot.jpg'
 background:         'assets/img/lainbg.jpg'
+icon:               'assets/img/htb.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://taylantatli.github.io/Moon
@@ -37,7 +38,7 @@ sass:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:               bridgetmlandry@gmail.com
 #twitter:            username
 #facebook:           username
 github-url:         BridgetLandry
@@ -46,10 +47,10 @@ linkedin:          BridgetLandry
 #xing:              username
 #instagram:          username
 #lastfm:            username
-#tumblr:            username
+hackthebox:            1015020
 #medium:            '@username'
 #pinterest:         username
-#foursquare:        username
+#hackthebox:        1015020
 #steam:              username
 #dribbble:          username
 #youtube:           username

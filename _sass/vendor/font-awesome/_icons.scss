@@ -383,8 +383,8 @@
 .#{$fa-css-prefix}-adn:before { content: $fa-var-adn; }
 .#{$fa-css-prefix}-bitbucket:before { content: $fa-var-bitbucket; }
 .#{$fa-css-prefix}-bitbucket-square:before { content: $fa-var-bitbucket-square; }
-.#{$fa-css-prefix}-tumblr:before { content: $fa-var-tumblr; }
-.#{$fa-css-prefix}-tumblr-square:before { content: $fa-var-tumblr-square; }
+.#{$fa-css-prefix}-hackthebox:before { content: $fa-var-hackthebox; }
+.#{$fa-css-prefix}-hackthebox-square:before { content: $fa-var-hackthebox-square; }
 .#{$fa-css-prefix}-long-arrow-down:before { content: $fa-var-long-arrow-down; }
 .#{$fa-css-prefix}-long-arrow-up:before { content: $fa-var-long-arrow-up; }
 .#{$fa-css-prefix}-long-arrow-left:before { content: $fa-var-long-arrow-left; }
@@ -395,7 +395,7 @@
 .#{$fa-css-prefix}-linux:before { content: $fa-var-linux; }
 .#{$fa-css-prefix}-dribbble:before { content: $fa-var-dribbble; }
 .#{$fa-css-prefix}-skype:before { content: $fa-var-skype; }
-.#{$fa-css-prefix}-foursquare:before { content: $fa-var-foursquare; }
+.#{$fa-css-prefix}-:before { content: $fa-var-; }
 .#{$fa-css-prefix}-trello:before { content: $fa-var-trello; }
 .#{$fa-css-prefix}-female:before { content: $fa-var-female; }
 .#{$fa-css-prefix}-male:before { content: $fa-var-male; }
@@ -787,3 +787,4 @@
 .#{$fa-css-prefix}-superpowers:before { content: $fa-var-superpowers; }
 .#{$fa-css-prefix}-wpexplorer:before { content: $fa-var-wpexplorer; }
 .#{$fa-css-prefix}-meetup:before { content: $fa-var-meetup; }
+.#{$fa-css-prefix}-htb { background-image: url('./assets/imgs/htb.svg'); }
